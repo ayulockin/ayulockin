@@ -24,10 +24,18 @@
 - :sparkles: I love good discussions. Best way to reach me: [Twitter - @ayushthakur0](https://twitter.com/ayushthakur0)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love watching anime. (Naruto is all time fav. One Piece is love. I can keep talking...)
- 
+
+<!-- STREAK STATS -->
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ayulockin&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
+    <br>
+</p>
+
+<div align="center">
 <a href="https://github.com/ayulockin">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayulockin&show_icons=true&theme=dark&line_height=27" alt="Thakur's github stats"/>
 </a>
+</div>
 
 <div align="center">
 
