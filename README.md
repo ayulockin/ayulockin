@@ -15,15 +15,16 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working at [Weights and Biases](https://www.wandb.com/).
-- 🌱 I create contents on deep learning. Find some of my work [here](https://app.wandb.ai/ayush-thakur/).
-- 🪂 I build MLOps pipeline for open-source repositories. 
+- 🔭 I’m currently working at [Weights and Biases](https://www.wandb.com/) as a Machine Learning Engineer.
+- 📣 I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-ayush-thakur) in Machine Learning (TensorFlow Core). 
 - 🌻 I am a Kaggle Notebooks Master. Here's my [Kaggle profile](https://www.kaggle.com/ayuraj).
--  :sun_with_face: Currently interested in unsupervised visual representation learning.
+- 🌱 I create contents on deep learning. Find some of my work [here](https://app.wandb.ai/ayush-thakur/).
+- 🪂 I build MLOps pipeline for open-source repositories like MMDetection, MMSegmentation, Keras, etc.
+-  :sun_with_face: Currently interested in Unsupervised Visual Representation Learning.
 - 👯 I would love to collaborate on any computer vision project. (It should not be face detection)
 - :sparkles: I love good discussions. Best way to reach me: [Twitter - @ayushthakur0](https://twitter.com/ayushthakur0)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love watching anime. (Naruto is all time fav. One Piece is love. I can keep talking...)
+- ⚡ Fun fact: I love watching anime. (Naruto is all time fav. One Piece is love. Finally Bleach is out. I can keep talking...)
 
 <!-- STREAK STATS -->
 <p align="center"> 
