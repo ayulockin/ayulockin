@@ -19,8 +19,9 @@
 - 📣 I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-ayush-thakur) in Machine Learning (TensorFlow Core). 
 - 🌻 I am a Kaggle Notebooks Master. Here's my [Kaggle profile](https://www.kaggle.com/ayuraj).
 - 🌱 I create contents on deep learning. Find some of my work [here](https://app.wandb.ai/ayush-thakur/).
+- 🪂 I build LLM applications and focus on LLM-system evaluations.
 - 🪂 I build MLOps pipeline for open-source repositories like Keras, OpenMMLab repos, Meta repo, etc.
--  :sun_with_face: Currently interested in Unsupervised Visual Representation Learning.
+-  :sun_with_face: Interested in everything that feeds my intellectual itch.
 - 👯 I would love to collaborate on any computer vision project. (It should not be face detection)
 - :sparkles: I love good discussions. Best way to reach me: [Twitter - @ayushthakur0](https://twitter.com/ayushthakur0)
 - 😄 Pronouns: He/His
