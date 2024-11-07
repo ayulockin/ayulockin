@@ -18,6 +18,7 @@
 - 🔭 I’m currently working at [Weights and Biases](https://www.wandb.com/) as a Machine Learning Engineer.
 - 📣 I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-ayush-thakur) in Machine Learning (TensorFlow Core). 
 - 🌻 I am a Kaggle Notebooks Master. Here's my [Kaggle profile](https://www.kaggle.com/ayuraj).
+- 📖 Courses: [RAG++ : From POC to Production](https://www.wandb.courses/courses/rag-in-production), [Training and Fine-tuning Large Language Models (LLMs)](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
 - 🌱 I create contents on deep learning. Find some of my work [here](https://app.wandb.ai/ayush-thakur/).
 - 🪂 I build LLM applications and focus on LLM-system evaluations.
 - 🪂 I build MLOps pipeline for open-source repositories like Keras, OpenMMLab repos, Meta repo, etc.
