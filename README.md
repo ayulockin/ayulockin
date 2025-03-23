@@ -26,7 +26,7 @@
 - 👯 I would love to collaborate on any computer vision project. (It should not be face detection)
 - :sparkles: I love good discussions. Best way to reach me: [Twitter - @ayushthakur0](https://twitter.com/ayushthakur0)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love watching anime. (Naruto is all time fav. One Piece is love. Jujutsu Kaisen is :fire:. I can keep talking...)
+- ⚡ Fun fact: I love watching anime. (Naruto is all time fav. One Piece is love. Solo Leveling is :fire:. I can keep talking...)
 
 <!-- STREAK STATS -->
 <p align="center"> 
